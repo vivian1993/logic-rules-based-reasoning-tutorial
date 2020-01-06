@@ -4,7 +4,7 @@ In order to respond to one of the main challenges of Artificial Intelligence (AI
 
 *Key words*: Symbolic, Logic Rules, Reasoning
 
-![Logic Rules-based Reasoning](img/img.png)
+![Logic Rules-based Reasoning](img.png)
 
 ## Summary
 * [Papers](#papers)
