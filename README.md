@@ -183,6 +183,12 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	* Authors: Tarek R. Besold, Artur d'Avila Garcez, Sebastian Bader, Howard Bowman, Pedro Domingos, Pascal Hitzler, Kai-Uwe Kuehnberger, Luis C. Lamb, Daniel Lowd, Priscila Machado Vieira Lima, Leo de Penning, Gadi Pinkas, Hoifung Poon and Gerson Zaverucha
 	* Venue: arXiv
 	* Citation: 44
+
+* Statistical Relational Artificial Intelligence: Logic, Probability, and Computation [[paper]](https://www.morganclaypool.com/doi/pdf/10.2200/S00692ED1V01Y201601AIM032?casa_token=f0OkzLiMQycAAAAA:0eoBjj1ovPHWQ3WpRHSgubiEuHeI2uMz4rZ5J5cn_WalUkAfx-X34ymeZC6SdSCSfJYQE4okC7Q)
+	* Brief overview: The book focuses on two representations in detail: Markov logic networks, a relational extension of undirected graphical models and weighted first-order predicate calculus formula, and Problog, a probabilistic extension of logic programs that can also be viewed as a Turing-complete relational extension of Bayesian networks.
+	* Authors: Luc De Raedt, Kristian Kersting, Sriraam Natarajan and David Poole
+	* Venue: Synthesis Lectures on Artificial Intelligence and Machine Learning
+	* Citation: 102
 	
 ## Courses:
 * [**Markov Logic Networks**](https://homes.cs.washington.edu/~pedrod/803/) (University of Washington)
