@@ -19,24 +19,22 @@ In order to respond to one of the main challenges of Artificial Intelligence (AI
 * [Courses](#courses)
 * [Active Researchers](#active-researchers)
 
-## Papers:
+## Papers
 
 ### Traditional Approaches
 Traditional approaches represented by Markov Logic Network attempts to conductthe inference via logic rules. They combine probability and first-order logic via probabilistic graphical model.
 
-* [**Markov Logic Networks**](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
+* Markov Logic Networks [[paper]](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf) [[Code]](http://alchemy.cs.washington.edu/)
 	* Brief overview: MLN is the  most widely  used  probabilis-tic graphical model in handling first-order logic-based reasoning,where each unknown predicate corresponds to a binary randomvariable and each ground logic rule corresponds to a factor. 
 	* Authors: Matthew Richardson and Pedro Domingos
 	* Venue: Machine learning
-	* [**Code**](http://alchemy.cs.washington.edu/)
 	* Citation: 2854
-* [**Probabilistic Inductive Logic Programming**](https://people.csail.mit.edu/kersting/ecmlpkdd05_pilp/pilp.pdf)
+* Probabilistic Inductive Logic Programming [[paper]](https://people.csail.mit.edu/kersting/ecmlpkdd05_pilp/pilp.pdf)
 	* Brief overview: The paper outlines three classical settings for inductive logic programming, namely learning from entailment, learning from interpretations, and learning from proofs or traces, and show how they can be used to learn different types of probabilistic representations.
 	* Authors: Luc De Raedt and Kristian Kersting
 	* Venue: Probabilistic Inductive Logic Programming
-	* [**Code**](http://alchemy.cs.washington.edu/)
 	* Citation: 441
-* [**Lifted First-Order Belief Propagation**](https://homes.cs.washington.edu/~pedrod/papers/aaai08a.pdf)
+* Lifted First-Order Belief Propagation [[paper]](https://homes.cs.washington.edu/~pedrod/papers/aaai08a.pdf)
 	* Brief overview: The paper proposes the first lifted version of a scalable probabilistic inference algorithm, belief propagation (loopy or not). It constructs a lifted network, where each node represents a set of ground atoms that all pass the same messages during belief propagation. 
 	* Authors: Parag Singla Pedro Domingos
 	* Venue: AAAI'08
