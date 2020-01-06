@@ -78,16 +78,23 @@ They treat logic rules as additional knowledge to embedding models, where satisf
 	
 * Improving Knowledge Graph Embedding Using Simple Constraints [[paper]](https://arxiv.org/pdf/1906.08495.pdf)  [[code]](https://github.com/iieir-km/ComplEx-NNE_AER)
 	* Brief overview: This paper investigates the potential of using entailment constraints to improve KG embedding. It examines non-negativity constraints on entity representations and approximate entailment constraints on relation representations. 
-	* Authors: Boyang Ding, Quan Wang, Bin Wang, Li Guo
+	* Authors: Boyang Ding, Quan Wang, Bin Wang and Li Guo
 	* Venue:ACL'18
 	* Citation: 21
+	
+* Embedding Uncertain Knowledge Graphs [[paper]](https://arxiv.org/pdf/1811.10667.pdf) [[code]](https://github.com/stasl0217/UKGE)
+	* Brief overview: This paper proposes a novel uncertain KG embedding model UKGE, which aims to preserve both structural and uncertainty information of relation facts in the embedding space.
+	* Authors: Xuelu Chen, Muhao Chen, Weijia Shi, Yizhou Sun and Carlo Zaniolo
+	* Venue:AAAI'19
+	* Citation: 4
+	
 
 #### Designing embedding-based variational distribution for variational inference of MLN
 They proposed to conduct variational inference of MLN byleveraging embeddings to define variational distribution of all pos-sible triples.
 
 * Probabilistic Logic Neural Networks for Reasoning [[paper]](https://arxiv.org/pdf/1906.08495.pdf) [[code]](https://github.com/DeepGraphLearning/pLogicNet)
 	* Brief overview: The paper defines the joint distribution of all possibletriplets by using a MLN with first-order logic, which can beefficiently optimized with the variational EM algorithm.
-	* Authors: Meng Qu, Jian Tang
+	* Authors: Meng Qu and Jian Tang
 	* Venue: NeurIPS'19
 	* Citation: 2
 	
@@ -114,35 +121,35 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	
 * Bayesian representation learning with oracle constraints [[paper]](https://arxiv.org/pdf/1506.05011.pdf)
 	* Brief overview: The paper proposes to combine generative unsupervised feature learning with a probabilistic treatment of oracle information like triplets in order to transfer implicit privileged oracle knowledge into explicit nonlinear Bayesian latent factor models of the observations.
-	* Authors: Theofanis Karaletsos, Serge Belongie, Gunnar Rätsch
+	* Authors: Theofanis Karaletsos, Serge Belongie and Gunnar Rätsch
 	* Venue: ICLR'16
 	* Citation: 40
 	
 * DeepProbLog: Neural Probabilistic Logic Programming [[paper]](https://arxiv.org/pdf/1805.10872.pdf)
 	* Brief overview: DeepProbLog supports both symbolic and subsymbolic representations and inference, 1) program induction, 2) probabilistic (logic) programming, and 3) (deep) learning from examples.
-	* Authors: Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester, Luc De Raedt
+	* Authors: Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester and Luc De Raedt
 	* Venue: NeurIPS'18
 	* Citation: 55
 	
 * Harnessing Deep Neural Networks with Logic Rules [[paper]](https://arxiv.org/pdf/1603.06318.pdf) [[code]](https://github.com/ZhitingHu/logicnn)
 	* Brief overview: The paper enables a neural network to learn simultaneously from labeled instances as well as logic rules, through an iterative rule knowledge distillation procedure that transfers the structured information encoded in the logic rules into the network parameters. 
-	* Authors: Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric Xing
+	* Authors: Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy and Eric Xing
 	* Venue: ACL'16
 	* Citation: 227
 	
 * Deep Neural Networks with Massive Learned Knowledge [[paper]](https://www.cs.cmu.edu/~rsalakhu/papers/emnlp16deep.pdf)
 	* Brief overview: The paper introduce a generalized framework which enables a learning procedure for knowledge representations and their weights jointly with the regulated DNN models.
-	* Authors: Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric P. Xing
+	* Authors: Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov and Eric P. Xing
 	* Venue: EMNLP'16
 	* Citation: 28
 	
 * Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision [[paper]](https://arxiv.org/pdf/1808.08485.pdf)
 	* Brief overview: The paper proposes deep probabilistic logic (DPL) to models label decisions as latent variables, represents prior knowledge on their relations using weighted first-order logical formulas, and alternates between learning a deep neural network for the end task and refining uncertain formula weights for indirect supervision, using variational EM.
-	* Authors: Hai Wang, Hoifung Poon
+	* Authors: Hai Wang and Hoifung Poon
 	* Venue: arXiv
 	* Citation: 7
 	
-* Knowledge-Based Artificial Neural Networks [[paper]](ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/towell.aij94.pdf)
+* Knowledge-Based Artificial Neural Networks [[paper]](https://www.sciencedirect.com/science/article/abs/pii/0004370294901058)
 	* Brief overview: KBANN is a hybrid learning system built on top of connectionist learning techniques. It maps problem-speciﬁc “domain theories”, represented in propositional logic, into neural networks and then refines this reformulated knowledge using back propagation.
 	* Authors: Geoffrey G. Towell and Jude W. Shavlik
 	* Venue: Artificial intelligence
@@ -157,7 +164,7 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	
 * Differentiable Learning of Logical Rules for Knowledge Base Reasoning [[paper]](https://arxiv.org/pdf/1702.08367.pdf) [[code]](https://github.com/fanyangxyz/Neural-LP)
 	* Brief overview: The paper proposes a framework, Neural Logic Programming, that combines the parameter and structure learning of first-order logical rules in an end-to-end differentiable model. This approach is inspired by a recently-developed differentiable logic called TensorLog, where inference tasks can be compiled into sequences of differentiable operations. 
-	* Authors: Fan Yang, Zhilin Yang, William W. Cohen
+	* Authors: Fan Yang, Zhilin Yang and William W. Cohen
 	* Venue: NeurIPS'17
 	* Citation: 76
 	
@@ -175,7 +182,7 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	
 * Neural Markov Logic Networks [[paper]](https://openreview.net/pdf?id=SkeGvaEtPr)
 	* Brief overview: The paper presents Neural Markov Logic Networks (NMLN), which is a generalization of Markov Logic Networks (MLN). Unlike MLN which relies on pre-specified first-order logic (FOL) rules, NMLN learns potential functions parameterized by neural networks on fragments of the graph. 
-	* Authors: Giuseppe Marra, Ondřej Kuželka
+	* Authors: Giuseppe Marra and Ondřej Kuželka
 
 ## Surveys
 * Neural-Symbolic Learning and Reasoning: A Survey and Interpretation [[paper]](https://arxiv.org/pdf/1711.03902.pdf)
