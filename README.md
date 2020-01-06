@@ -100,6 +100,12 @@ They proposed to conduct variational inference of MLN byleveraging embeddings to
 Neural-Symbolic Learning and Reasoning seeks to integrate principles from neuralnetworks learning and logical reasoning. It is an interdisciplinary field involving components of knowledge representation, neuroscience, machine learning and cognitive science. 
 
 #### Reasoning Orientated
+* Learning First-Order Logic Embeddings via Matrix Factorization [[paper]](https://sites.cs.ucsb.edu/~william/papers/ijcai2016.pdf)
+	* Brief overview: The paper is interested in learning latent, distributional representations of Horn clauses to enhance logic-based knowledge base completion for large datasets.
+	* Authors: William Yang Wang and William W. Cohen
+	* Venue: IJCAI'16
+	* Citation: 35
+
 * Neural-Symbolic Learning and Reasoning: Contributions and Challenges [[paper]](https://www.aaai.org/ocs/index.php/SSS/SSS15/paper/download/10281/10029)
 	* Brief overview: The paper recalls the main contributions and discusses key challenges for neural-symbolic integration which have been identified at a recent Dagstuhl seminar. 
 	* Authors: Artur d’Avila Garcez, Tarek R. Besold, Luc de Raedt, Peter Földiak, Pascal Hitzler, Thomas Icard, Kai-Uwe Kühnberger, Luis C. Lamb, Risto Miikkulainen and Daniel L. Silver 
