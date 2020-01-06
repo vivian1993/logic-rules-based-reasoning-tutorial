@@ -1,6 +1,6 @@
 # Logic Rules-based Reasoning
 <br>
-In order to respond to one of the main challenges of Artificial Intelligence (AI), that is, the effective integration of learning and reasoning (Valiant 2008), both symbolic inference and statistical learning need to be combined in an effective way. 
+In order to respond to one of the main challenges of Artificial Intelligence (AI), that is, the effective integration of learning and reasoning, both symbolic inference and statistical learning need to be combined in an effective way. 
 
 
 *Key words*: Symbolic, Logic Rules, Reasoning
@@ -177,7 +177,7 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	* Brief overview: The paper presents Neural Markov Logic Networks (NMLN), which is a generalization of Markov Logic Networks (MLN). Unlike MLN which relies on pre-specified first-order logic (FOL) rules, NMLN learns potential functions parameterized by neural networks on fragments of the graph. 
 	* Authors: Giuseppe Marra, Ondřej Kuželka
 
-## Surveys:
+## Surveys
 * Neural-Symbolic Learning and Reasoning: A Survey and Interpretation [[paper]](https://arxiv.org/pdf/1711.03902.pdf)
 	* Brief overview: The survey reviews the personal ideas and views of several researchers on neural-symbolic learning and reasoning. The article is organised in three parts: Firstly, it frames the scope and goals of neural-symbolic computation and have a look at the theoretical foundations. It then proceeds to describe the realisations of neural-symbolic computation, systems, and applications. Finally it presents the challenges facing the area and avenues for further research.
 	* Authors: Tarek R. Besold, Artur d'Avila Garcez, Sebastian Bader, Howard Bowman, Pedro Domingos, Pascal Hitzler, Kai-Uwe Kuehnberger, Luis C. Lamb, Daniel Lowd, Priscila Machado Vieira Lima, Leo de Penning, Gadi Pinkas, Hoifung Poon and Gerson Zaverucha
@@ -190,11 +190,11 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	* Venue: Synthesis Lectures on Artificial Intelligence and Machine Learning
 	* Citation: 102
 	
-## Courses:
+## Courses
 * [**Markov Logic Networks**](https://homes.cs.washington.edu/~pedrod/803/) (University of Washington)
 * [**Knowledge Representation and Reasoning**](https://www.cs.princeton.edu/courses/archive/fall16/cos402/lectures/402-lec12.pdf) (Priceton)
 
-## Active Researchers:
+## Active Researchers
 * [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) (University of Washington)
 * [William W. Cohen](http://www.cs.cmu.edu/~wcohen/) (Google AI)
 * [Tim Rocktäschel](https://rockt.github.io/) (FAIR) 
