@@ -38,7 +38,7 @@ Traditional approaches represented by Markov Logic Network attempts to conductth
 	* Brief overview: The paper proposes the first lifted version of a scalable probabilistic inference algorithm, belief propagation (loopy or not). It constructs a lifted network, where each node represents a set of ground atoms that all pass the same messages during belief propagation. 
 	* Authors: Parag Singla Pedro Domingos
 	* Venue: AAAI'08
-	* Citation: 441
+	* Citation: 311
 
 ### Combining Embedding Model with Logic Rules
 Although KB embedding provides a promising approach for knowl-edge inference, the ignorance of the symbolic compositionality ofKG relations limits their reasoning ability. Several attempts havebeen made to combine the power of logic rules in knowledge inference with embedding models in recent years.
