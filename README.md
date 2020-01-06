@@ -1,8 +1,10 @@
 # Logic Rules-based Reasoning
 <br>
 In order to respond to one of the main challenges of Artificial Intelligence (AI), that is, the effective integration of learning and reasoning (Valiant 2008), both symbolic inference and statistical learning need to be combined in an effective way. 
-<br>
+
+
 *Key words*: Symbolic, Logic Rules, Reasoning
+
 
 ![Logic Rules-based Reasoning](img.PNG)
 
