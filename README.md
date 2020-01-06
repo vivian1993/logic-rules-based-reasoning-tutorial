@@ -97,7 +97,7 @@ They proposed to conduct variational inference of MLN byleveraging embeddings to
 	* Venue: ICLR'20
 
 ### Combining Neural Network with Logic Rules
-Neural-Symbolic Learning and Reasoning seeks to integrate principles from neuralnetworks learning and logical reasoning. It is an interdisciplinary field involving components of knowledge representation, neuroscience, machine learning and cognitive science. 
+Neural-Symbolic learning and reasoning seeks to integrate principles from neural networks learning and logical reasoning. It is an interdisciplinary field involving components of knowledge representation, neuroscience, machine learning and cognitive science. 
 
 #### Reasoning Orientated
 * Learning First-Order Logic Embeddings via Matrix Factorization [[paper]](https://sites.cs.ucsb.edu/~william/papers/ijcai2016.pdf)
