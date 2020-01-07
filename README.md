@@ -183,6 +183,10 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 * Neural Markov Logic Networks [[paper]](https://openreview.net/pdf?id=SkeGvaEtPr)
 	* Brief overview: The paper presents Neural Markov Logic Networks (NMLN), which is a generalization of Markov Logic Networks (MLN). Unlike MLN which relies on pre-specified first-order logic (FOL) rules, NMLN learns potential functions parameterized by neural networks on fragments of the graph. 
 	* Authors: Giuseppe Marra and Ondřej Kuželka
+	
+* Learn to Explain Efficiently via Neural Logic Inductive Learnings [[paper]](https://openreview.net/pdf?id=SJlh8CEYDB) [[code]](https://openreview.net/pdf?id=SJlh8CEYDB)
+	* Brief overview: The paper propose Neural Logic Inductive Learning (NLIL), an efficient differentiable ILP framework that learns first-order logic rules that can explain the patterns in the data.
+	* Authors: Yuan Yang, Le Song
 
 ## Surveys
 * Neural-Symbolic Learning and Reasoning: A Survey and Interpretation [[paper]](https://arxiv.org/pdf/1711.03902.pdf)
