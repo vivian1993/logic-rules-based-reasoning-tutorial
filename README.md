@@ -146,7 +146,7 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 * Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision [[paper]](https://arxiv.org/pdf/1808.08485.pdf)
 	* Brief overview: The paper proposes deep probabilistic logic (DPL) to models label decisions as latent variables, represents prior knowledge on their relations using weighted first-order logical formulas, and alternates between learning a deep neural network for the end task and refining uncertain formula weights for indirect supervision, using variational EM.
 	* Authors: Hai Wang and Hoifung Poon
-	* Venue: arXiv
+	* Venue: ACL'18
 	* Citation: 7
 	
 * Knowledge-Based Artificial Neural Networks [[paper]](https://www.sciencedirect.com/science/article/abs/pii/0004370294901058)
