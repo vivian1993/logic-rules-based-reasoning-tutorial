@@ -206,7 +206,7 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 * [**Knowledge Representation and Reasoning**](https://www.cs.princeton.edu/courses/archive/fall16/cos402/lectures/402-lec12.pdf) (Priceton)
 
 ### Other Resource
-[**Reading List**](http://www.arxiv-sanity.com/1605.06523)
+* [**Reading List**](http://www.arxiv-sanity.com/1605.06523)
 
 ## Active Researchers
 * [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) (University of Washington)
