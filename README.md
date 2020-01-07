@@ -125,7 +125,7 @@ Neural-Symbolic learning and reasoning seeks to integrate principles from neural
 	* Venue: ICLR'16
 	* Citation: 40
 	
-* DeepProbLog: Neural Probabilistic Logic Programming [[paper]](https://arxiv.org/pdf/1805.10872.pdf)
+* DeepProbLog: Neural Probabilistic Logic Programming [[paper]](https://arxiv.org/pdf/1805.10872.pdf) [[code]](https://bitbucket.org/problog/deepproblog/src/master/)
 	* Brief overview: DeepProbLog supports both symbolic and subsymbolic representations and inference, 1) program induction, 2) probabilistic (logic) programming, and 3) (deep) learning from examples.
 	* Authors: Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester and Luc De Raedt
 	* Venue: NeurIPS'18
