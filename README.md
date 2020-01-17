@@ -41,7 +41,7 @@ Traditional approaches represented by Markov Logic Network attempts to conductth
 	* Citation: 311
 
 ### Combining Embedding Model with Logic Rules
-Although KB embedding provides a promising approach for knowledge inference, the ignorance of the symbolic compositionality of KG relations limits their reasoning ability. Several attempts havebeen made to combine the power of logic rules in knowledge inference with embedding models in recent years.
+Although KB embedding provides a promising approach for knowledge inference, the ignorance of the symbolic compositionality of KG relations limits their reasoning ability. Several attempts have been made to combine the power of logic rules in knowledge inference with embedding models in recent years.
 
 #### Designing logic rule-based regularization to embedding models
 They treat logic rules as additional knowledge to embedding models, where satisfaction of ground rules is integrated into the original embedding loss. A typical integration is defined as follows: (1) sampling ground logic rules given the template logic rules; (2) mapping each related triple (i.e., predicate) into a confidence score (i.e., soft truth value); (3) computing the satisfaction score to each ground rule based on its predicates' scores; and (4) defining proper loss based on the satisfaction score for all the ground rules.
